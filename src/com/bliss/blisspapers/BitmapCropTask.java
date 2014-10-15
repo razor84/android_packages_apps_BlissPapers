@@ -1,4 +1,4 @@
-package com.beanstalk.beanstalkpapers;
+package com.bliss.blisspapers;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;

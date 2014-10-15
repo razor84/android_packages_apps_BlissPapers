@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.beanstalk.beanstalkpapers;
+package com.bliss.blisspapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
