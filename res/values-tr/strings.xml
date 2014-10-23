@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">BeanStalk Duvar Kağıtları</string>
+    <string name="app_name">BlissStalk Duvar Kağıtları</string>
     <string name="set_wallpaper">Duvar kağıdını ayarla</string>
     <string name="no_wallpaper">Duvar Kağıdı yok</string>
 </resources>

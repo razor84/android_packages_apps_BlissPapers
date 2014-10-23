@@ -5,11 +5,11 @@
       <uses-permission android:name="android.permission.SET_WALLPAPER" />
       <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
 
-    <application android:label="@string/app_name" android:icon="@drawable/beanstalk_icon">
+    <application android:label="@string/app_name" android:icon="@drawable/bliss_icon">
         <activity
             android:name="wallpaper"
             android:label="@string/app_name"
-            android:icon="@drawable/beanstalk_icon"
+            android:icon="@drawable/bliss_icon"
             android:screenOrientation="nosensor"
             android:finishOnCloseSystemDialogs="true">
             <intent-filter>

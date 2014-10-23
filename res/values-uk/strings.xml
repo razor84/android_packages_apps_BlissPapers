@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">Фони BeanStalk</string>
+    <string name="app_name">Фони BlissStalk</string>
     <string name="set_wallpaper">Встановити фон</string>
     <string name="no_wallpaper">Без фону</string>
 </resources>

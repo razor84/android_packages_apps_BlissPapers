@@ -16,56 +16,24 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_24</item>
-        <item>wallpaper_23</item>
-        <item>wallpaper_22</item>
         <item>wallpaper_0</item>
-        <item>wallpaper_21</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_14</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_17</item>
-        <item>wallpaper_18</item>
-        <item>wallpaper_19</item>
-        <item>wallpaper_20</item>
         <item>wallpaper_3</item>
         <item>wallpaper_4</item>
         <item>wallpaper_5</item>
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_9</item>
-        <item>wallpaper_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Default</item>
-        <item>Light show</item>
-        <item>Hanging around</item>
-        <item>Original</item>
-        <item>Typography</item>
-        <item>Gray logo</item>
-        <item>Old Beanstalk</item>
-        <item>Green tree</item>
-        <item>Cloud view</item>
-        <item>Unknown</item>
-        <item>Green sky</item>
-        <item>Stalk tips</item>
-        <item>Arcade style</item>
-        <item>Cartoon BeanStalk</item>
-        <item>Unknown</item>
-        <item>Yellow BeanStalk</item>
-        <item>Bottom view</item>
-        <item>Beanstalk explosion</item>
-        <item>Design logo</item>
-        <item>Design logo 2</item>
-        <item>Design logo 3</item>
-        <item>B for Beanstalk</item>
-        <item>Beanstalk green</item>
-        <item>Cartoon Beanstalk</item>
+        <item>Green No Text</item>
+        <item>Green Text 1</item>
+        <item>Green Text 2</item>
+        <item>Blue Text</item>
+        <item>Red Text</item>
+        <item>Pink Text</item>
+        <item>Yellow Text</item>
+        <item>Inverted Text</item>
     </string-array>
 </resources>
