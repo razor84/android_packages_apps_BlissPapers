@@ -1,21 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2013 The CyanogenMod Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-
 <resources>
-    <string name="app_name">Bliss Wallpapers</string>
-    <string name="set_wallpaper">Set wallpaper</string>
-    <string name="no_wallpaper">No wallpaper</string>
+
+    <string name="app_name">BlissPop Wallpapers</string>
+    <string name="title_activity_wallpaper">BlissPop Wallpapers</string>
+    <string name="back">Previous</string>
+    <string name="next">Next</string>
+    <string name="page">Page: </string>
+    <string name="set_wallpaper">Set as Wallpaper</string>
+    <string name="save_wallpaper">Save to Storage</string>
+    <string name="downloading">Downloading…</string>
+    <string name="wait">Please wait</string>
+    <string name="set">Wallpaper set!</string>
+    <string name="saved">Wallpaper saved to</string>
+    <string name="jump">Jump to Page</string>
+    <string name="jump2">Jump to Page:</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_about">About BlissPop Wallpapers</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="setting_wallpaper">Setting wallpaper...</string>
+    <string name="downloading_wallpaper">Saving wallpaper...</string>
+    <string name="category_name">Category Name</string>
+    <string name="choose_category">Choose category</string>
+    <string name="about_text">Welcome to BlissPop Wallpapers. \n\nThis app was forked from AOKP\'s SwagPapers and was updated to take advantage of Lollipop\'s Material theme. \n\nThis app was customized for BlissPop wallpapers and should not be distributed anywhere outside of the BlissPop Rom. \n\nSource files can be found below:\n\nAOKP Swagpapers:\nhttps://github.com/AOKP/packages_wallpapers_SwagPapers_v2\nBlissPop Wallpapers:\nhttps://github.com/death2all110/android_packages_apps_BlissPapers</string>
+
 </resources>
