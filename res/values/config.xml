@@ -8,6 +8,7 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">http://darkxshadows.net/blisspop/wallpapers/wallpaper_manifest.xml</string>
+    <!-- <string name="config_wallpaper_manifest_url">http://darkxshadows.net/blisspop/wallpapers/wallpaper_manifest.xml</string> -->
+    <string name="config_wallpaper_manifest_url">http://downloads.blissroms.com/wallpapers/wallpaper_manifest.xml</string>
 
 </resources>
