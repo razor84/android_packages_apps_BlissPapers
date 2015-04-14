@@ -66,12 +66,10 @@ public class WallpaperActivity extends Activity {
 
         setContentView(R.layout.activity_wallpaper);
 
-
-
         mLoadingDialog = new ProgressDialog(this);
         mLoadingDialog.setCancelable(false);
         mLoadingDialog.setIndeterminate(true);
-        mLoadingDialog.setMessage("Retreiving wallpapers from server...");
+        mLoadingDialog.setMessage("Retrieving wallpapers from server...");
 
         mLoadingDialog.show();
         new LoadWallpaperManifest().execute();
@@ -88,10 +86,8 @@ public class WallpaperActivity extends Activity {
 
     protected void loadPreviewFragment() {
 
-        Toolbar ab = (Toolbar) findViewById(R.id.toolbar);
-        setActionBar(ab);
-
-
+        //Toolbar ab = (Toolbar) findViewById(R.id.toolbar);
+        //setActionBar(ab);
 
         WallpaperPreviewFragment fragment = new WallpaperPreviewFragment();
         FragmentManager fragmentManager = getFragmentManager();
